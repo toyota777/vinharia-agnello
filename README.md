@@ -9,31 +9,49 @@ Como desafio principal do projeto solicitado pela vinheria Agnello foi o desenvo
 ---
 ### 📁 Estrutura do projeto
 
-```css
-Vinheria-agnello/
-│
-├── index.html
-├── README.md
-├── src/
-│   ├── assets/
-│   │   └── imgs/
-│   │       ├── equipe/
-│   │       │   ├── davitoyota.png
-│   │       │   ├── diegorocha.png
-│   │       │   ├── felippetuma.png
-│   │       │   └── renansilva.png
-│   │       ├── vinho-branco.png
-│   │       ├── vinho-rose.png
-│   │       └── vinho-tinto.png
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   └── pages/
-│       ├── contato.html
-│       ├── equipe.html
-│       ├── história.html
-│       └── produtos.html
 ```
+Vinharia-Agnello
+📦src
+ ┣ 📂assets
+ ┃ ┣ 📂imgs
+ ┃ ┃ ┣ 📂equipe
+ ┃ ┃ ┃ ┣ 📜davitoyota.png
+ ┃ ┃ ┃ ┣ 📜diegorocha.png
+ ┃ ┃ ┃ ┣ 📜felippetuma.png
+ ┃ ┃ ┃ ┗ 📜renansilva.png
+ ┃ ┃ ┣ 📂icones
+ ┃ ┃ ┃ ┗ 📜phone-icon.png
+ ┃ ┃ ┣ 📂loja_fisica
+ ┃ ┃ ┃ ┣ 📜adega_agnello.png
+ ┃ ┃ ┃ ┣ 📜entrada_adega_agnello.png
+ ┃ ┃ ┃ ┗ 📜giulio-e-esposa-agnello.png
+ ┃ ┃ ┗ 📂produtos
+ ┃ ┃ ┃ ┣ 📂espumantes
+ ┃ ┃ ┃ ┃ ┣ 📜Espumante_CasaPerini_Moscatel_750ml.png
+ ┃ ┃ ┃ ┃ ┗ 📜Espumante_Salton_Brut_750ml.png
+ ┃ ┃ ┃ ┣ 📂vinhos-brancos
+ ┃ ┃ ┃ ┃ ┣ 📜VinhoBranco_ConchaYToro_Reservado_Chardonnay_750ml.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜VinhoBranco_SuaveDoce_Aurora_ColheitaTardia_500ml.png
+ ┃ ┃ ┃ ┣ 📂vinhos-rose
+ ┃ ┃ ┃ ┃ ┣ 📜VinhoRose_CasalGarcia_Rosé_750ml.jpg
+ ┃ ┃ ┃ ┃ ┗ 📜VinhoRose_ConchaYToro_Reservado_SweetRoseSuave_750ml.png
+ ┃ ┃ ┃ ┗ 📂vinhos-tintos
+ ┃ ┃ ┃ ┃ ┣ 📜VinhoTinto_SuaveBordô_720ml-QuintaMoraes.png
+ ┃ ┃ ┃ ┃ ┗ 📜VinhoTinto_SuavePérgola_750ml-VinicolaCampestre.png
+ ┃ ┗ 📂videos
+ ┃ ┃ ┗ 📜tutorial-vinho.mp4
+ ┣ 📂css
+ ┃ ┗ 📜style.css
+ ┗ 📂pages
+ ┃ ┣ 📜contato.html
+ ┃ ┣ 📜equipe.html
+ ┃ ┣ 📜historia.html
+ ┃ ┗ 📜produtos.html
+ 📜index.html
+ 📜README.md
+ 
+```
+
 ---
 ### 👥 Integrantes:
  - Felippe Tuma Costa
