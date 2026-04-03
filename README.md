@@ -10,7 +10,7 @@ Como desafio principal do projeto solicitado pela vinheria Agnello foi o desenvo
 ### 📁 Estrutura do projeto
 
 ```
-Vinharia-Agnello
+Vinheria-Agnello
 📦src
  ┣ 📂assets
  ┃ ┣ 📂imgs
